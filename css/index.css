@@ -1,0 +1,51 @@
+h1 {
+ font-family: helvetica, arial, sans-serif;
+}
+.left {
+    float: left;
+    padding-right:15px;
+}
+
+.right{
+    float: right;
+    padding-left: 15px;
+}
+
+.selector{
+    width: 750px;
+}
+
+ul{
+    list-style-type: none ;
+    margin: 0  ;
+    padding: 0;
+
+}
+li{
+   float: left;
+    padding-right: 14px;
+    background-color: rgb(83, 201, 201);
+}
+
+head{
+    float: left;
+}
+.div {
+    width: 29%;
+    float: left;
+
+
+}
+.text{
+    float: left;
+
+}
+
+.left-column{
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: rgb(209, 170, 170);
+    padding:10px
+}
+
